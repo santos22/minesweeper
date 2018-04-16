@@ -1,4 +1,7 @@
 # Minesweeper
+
+![alt text](https://i.imgur.com/AO7Ekjn.png "Minesweeper screenshot")
+
 This was an attempt to recreate a modified version of Minesweeper. The board will reveal one of three states when the player clicks a tile:
 * Danger Tile - the tile hides a mine
 * Caution Tile - the tile is adjacent to a mine
