@@ -2,10 +2,10 @@
 
 ![alt text](https://i.imgur.com/Gcrl9ci.png "Minesweeper screenshot")
 
-This was an attempt to recreate a modified version of Minesweeper. The board will reveal one of three states when the player clicks a tile:
-* Danger Tile - the tile hides a mine
-* Caution Tile - the tile is adjacent to a mine
-* Safe Tile - the tile is neither adjacent to or hides a mine
+This was an attempt to recreate a modified version of Minesweeper. The board will reveal one of three states when a player clicks a tile:
+* Danger Tile (red) - the tile hides a mine
+* Caution Tile (yellow) - the tile is adjacent to a mine
+* Safe Tile (green) - the tile is neither adjacent to or hides a mine
 
 ## Features
 - [x] Allow the player to specify the mine field dimensions - number of columns and rows
